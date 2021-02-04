@@ -19,10 +19,10 @@ In demo, we've used temperature & intensity sensors, here temperature value is l
 > We've set camera in our kit, that clicks photos of crops & sends to cloud . We've trained a deep learning model for detection of diseases of crops. If any disease will be detected by our model, then it will send alerts with disease name and how to prevent as well. For the demo purpose, we're manually uploading photos of crops..... 
 
     >> DEMO OF LANDING PAGE
-    https://error404m.github.io/streamer/Deep%20Learning%20Part/templates/index.html 
+   https://error404m.github.io/streamer/Deep%20Learning%20Part/templates/index.html  
     
     >> DEMO OF WHEN NO DISEASE DETECTED
-    https://error404m.github.io/streamer/Deep%20Learning%20Part/templates/healthy.html
+   https://error404m.github.io/streamer/Deep%20Learning%20Part/templates/healthy.html 
     
     >> DEMO OF WHEN CROPS'S DISEASE DETECTED
 https://error404m.github.io/RedixoLabs/Deep%20Learning%20Part/templates/1.html 
