@@ -1,12 +1,16 @@
-# streamer
 
-# RedixoLabs | Smart Agro Project | Streamer
+
+# RedixoLabs | Smart Agro Project | Streamr
 
 -------------------
 ## About Project
 Smart Agro Project is an IoT and AI project consists of several sensors that sends alerts over the text messages/email/calls to farmers .
 
 ## DEMO
+
+### Streamr Data Union Demo Video
+https://youtu.be/YB863_rP-9Q
+
 ### IoT Kit Demo
 
  > Our model have several sensors that takes readings from farmers field through microcontroller . We've set thresold minimum and maximum values for each sensors when sensor values will be out of thresold values, then we'll send alerts.
