@@ -14,12 +14,12 @@ Smart Agro Project is an IoT and AI project consists of several sensors that sen
 In demo, we've used temperature & intensity sensors, here temperature value is less than the minimum thresold value, so simply we are turning on electric motor(LED for demo) and sending alerts over text message .
 
    >> Video DEMO  
-  https://youtu.be/sZSdsnOvSpY 
+https://youtu.be/sZSdsnOvSpY 
     
     
     
 ### Streamr Data Union Demo Video
-https://youtu.be/YB863_rP-9Q
+https://youtu.be/YB863_rP-9Q 
 
 
 ### Deep Learning Model Demo
@@ -33,13 +33,14 @@ https://youtu.be/YB863_rP-9Q
    https://error404m.github.io/streamer/Deep%20Learning%20Part/templates/healthy.html 
     
     >> DEMO OF WHEN CROPS'S DISEASE DETECTED
-https://error404m.github.io/RedixoLabs/Deep%20Learning%20Part/templates/1.html 
+   https://error404m.github.io/RedixoLabs/Deep%20Learning%20Part/templates/1.html 
    
+
 ### Farmers/Banks/Mandi's Dashboard
 
 > Now days, farmers sells thier crops at very cheap rates with mediators and farmers are not getting government scheames . For this problem we've developed a model that analyzes the expected production of crops and send data to governments , Mandis, banks, etc. iff farmers enables data sharing mode .
 
-   https://error404m.github.io/streamer/WebD%20Part/index.html  
+ https://error404m.github.io/streamer/WebD%20Part/index.html  
 
 ## Team Members:- 
 1) Mrityunjaya Tiwari 
