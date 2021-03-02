@@ -39,7 +39,7 @@ https://youtu.be/YB863_rP-9Q
 
 > Now days, farmers sells thier crops at very cheap rates with mediators and farmers are not getting government scheames . For this problem we've developed a model that analyzes the expected production of crops and send data to governments , Mandis, banks, etc. iff farmers enables data sharing mode .
 
- https://error404m.github.io/streamer/WebD%20Part/index.html  
+ http://redixolabs.myiiita.co.in  
 
 ## Team Members:- 
 1) Mrityunjaya Tiwari (iit2019239@iiita.ac.in)
