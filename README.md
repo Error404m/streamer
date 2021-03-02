@@ -42,7 +42,7 @@ https://youtu.be/YB863_rP-9Q
  https://error404m.github.io/streamer/WebD%20Part/index.html  
 
 ## Team Members:- 
-1) Mrityunjaya Tiwari 
-2) Raunak Singh Rathore
-3) Pravallika Kodi
-4) Manish Kumar
+1) Mrityunjaya Tiwari (iit2019239@iiita.ac.in)
+2) Raunak Singh Rathore (iit2019222@iiita.ac.in)
+3) Pravallika Kodi (iit2019234@iiita.ac.in)
+4) Manish Kumar(iec2019068@iiita.ac.in)
